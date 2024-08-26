@@ -6,7 +6,11 @@ Here is my code for Handgesture - Play Subway Surfer game without touching keybo
 * Move hand to right screen -> Go right<br>
 * Move hand to top screen -> Jump
 * Move hand to bottom screen -> Scrool
-![Demo Video](https://github.com/hoang-nguyens/Subway-Surfer-Mediapipe/tree/main/demo%20video)
+![Demo Video]
+
+https://github.com/user-attachments/assets/4578c88a-ba14-4642-86c0-8660c9be8a44
+
+
 ## Requirement
 * python 3.x
 * cv2
